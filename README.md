@@ -1,4 +1,4 @@
-**Hi There!**
+#Hi There!
 這是一個圓形倒數的套件
 可以自訂
 1.最大值(Maximum time)與剩下時間(Left time)
